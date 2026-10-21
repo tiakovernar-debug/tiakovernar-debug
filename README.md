@@ -1,16 +1,20 @@
 ## Hi there 👋
+Обучение: Студент Астанинского политехнического колледжа (академическая группа П-25-71гб), где вы активно занимаетесь техническими дисциплинами, языками и созданием учебных материалов.
 
-<!--
-**tiakovernar-debug/tiakovernar-debug** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Программирование и разработка:
 
-Here are some ideas to get you started:
+Пишете код на Python (используя библиотеки Pygame, tkinter и базы данных SQLite) и C# в среде Visual Studio 2022.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Создаете веб-интерфейсы с помощью HTML, CSS и JavaScript, настраивая адаптивную верстку и интерактивные элементы.
+
+Проектируете и управляете базами данных в SQLite и SQL Server, а также пишете скрипты для платформы 1С:Предприятие.
+
+Используете систему контроля версий Git и GitHub, работаете в терминале Linux Ubuntu Desktop.
+
+Достижения: В марте 2026 года успешно завершили профессиональный курс IT Essentials через Cisco Networking Academy и получили подтвержденный сертификат на Credly.
+
+Интересы и досуг:
+
+Увлекаетесь компьютерными играми в жанрах головоломок, хорроров и приключений на платформе Steam, а также играете в сообществах Arizona RP (серверы Kingman и Yuma).
+
+Пользуетесь музыкальным сервисом Spotify и совершаете поездки на межгородских поездах по маршрутам между Астаной, Эрейментау и Экибастузом.
